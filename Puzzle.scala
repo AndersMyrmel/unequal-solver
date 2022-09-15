@@ -9,3 +9,4 @@ import puzzlesolver._
     Solve.solvePuzzle(puzzle, constraints, size)
     Write.printPuzzle(puzzle, size)
 }
+

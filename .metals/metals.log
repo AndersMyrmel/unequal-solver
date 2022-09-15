@@ -592,3 +592,4 @@ Exception in thread "pool-3-thread-2" java.lang.InterruptedException
 2022.09.16 00:12:14 WARN  no build target for: C:\Users\Anders\unequal-solver\Puzzle.scala
 2022.09.16 00:19:35 WARN  no build target for: C:\Users\Anders\unequal-solver\PuzzleReaderWriter.scala
 2022.09.16 00:19:40 WARN  no build target for: C:\Users\Anders\unequal-solver\PuzzleSolver.scala
+2022.09.16 00:20:45 WARN  no build target for: C:\Users\Anders\unequal-solver\PuzzleSolver.scala
