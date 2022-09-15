@@ -1,7 +1,6 @@
 package puzzlereaderwriter
 import scala.io.Source
 
-
 object Read {
     def readPuzzle(file: String, size: Int): Array[Int] = {
         var puzzle = Array.ofDim[Int](size*size);

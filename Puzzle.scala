@@ -1,4 +1,3 @@
-import scala.io.Source
 import puzzlereaderwriter._
 import puzzlereaderwriter._
 import puzzlesolver._
