@@ -1,5 +1,4 @@
 import puzzlereaderwriter._
-import puzzlereaderwriter._
 import puzzlesolver._
 
 // Create a puzzle input file, as shown in Canvas (Pages/Description: Unequal)
