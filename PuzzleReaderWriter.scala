@@ -2,6 +2,7 @@ package puzzlereaderwriter
 import scala.io.Source
 
 object Read {
+    // Store the next puzzle in a one dimensional array
     def readPuzzle(file: String, size: Int): Array[Int] = {
         var puzzle = Array.ofDim[Int](size*size);
         val intRegex = """(\d+)""".r
