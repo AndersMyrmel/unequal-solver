@@ -45,4 +45,3 @@ object Solve {
         return true;
     }
 }
-
